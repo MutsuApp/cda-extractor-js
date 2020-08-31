@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/cda-extractor-js.svg)](https://badge.fury.io/js/cda-extractor-js)
 
-## Instalation
+## Installation
 
 #### YARN
 

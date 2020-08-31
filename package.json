@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": "https://github.com/MutsuApp/cda-extractor-js.git",
   "author": "Capure",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This package extracts link to mp4 from a cda video id.",
   "name": "cda-extractor-js"
 }
