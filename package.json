@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cross-fetch": "^3.0.5",
+    "jssoup": "^0.0.12"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/MutsuApp/cda-extractor-js.git",
+  "author": "Capure",
+  "version": "1.0.0",
+  "description": "This package extracts link to mp4 from a cda video id.",
+  "name": "cda-extractor-js"
+}
